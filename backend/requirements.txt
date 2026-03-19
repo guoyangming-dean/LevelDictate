@@ -1,0 +1,11 @@
+# FastAPI 后端依赖
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+python-multipart==0.0.6
+pydantic==2.5.3
+
+# PDF 解析
+PyPDF2==3.0.1
+
+# 跨域
+starlette==0.35.1

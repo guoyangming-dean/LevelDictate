@@ -1,0 +1,5 @@
+# Streamlit 前端依赖
+streamlit==1.30.0
+
+# HTTP 请求
+requests==2.31.0

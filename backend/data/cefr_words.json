@@ -1,0 +1,74 @@
+{
+    "A1": [
+        "hello", "hi", "goodbye", "bye", "please", "thank", "thanks", "sorry", "yes", "no",
+        "good", "bad", "big", "small", "hot", "cold", "new", "old", "young", "happy",
+        "sad", "love", "like", "want", "need", "have", "get", "go", "come", "see",
+        "make", "say", "tell", "ask", "give", "take", "put", "come", "look", "think",
+        "know", "find", "use", "time", "year", "day", "week", "month", "house", "home",
+        "water", "food", "book", "phone", "hand", "eye", "face", "name", "way", "thing",
+        "person", "man", "woman", "child", "boy", "girl", "friend", "family", "mother", "father",
+        "sister", "brother", "son", "daughter", "wife", "husband", "work", "school", "class", "teacher",
+        "student", "money", "car", "bus", "train", "plane", "city", "town", "village", "country",
+        "world", "life", "people", "number", "word", "letter", "problem", "question", "answer", "story"
+    ],
+    "A2": [
+        "morning", "afternoon", "evening", "night", "today", "tomorrow", "yesterday", "now", "then",
+        "always", "never", "often", "sometimes", "usually", "really", "very", "quite", "too", "also",
+        "much", "many", "more", "most", "some", "any", "few", "little", "both", "each", "every",
+        "other", "another", "all", "same", "different", "better", "best", "worse", "worst",
+        "easy", "difficult", "hard", "simple", "interesting", "boring", "important", "possible",
+        "beautiful", "ugly", "nice", "kind", "right", "wrong", "true", "false", "ready", "free",
+        "open", "close", "start", "stop", "finish", "end", "begin", "continue", "wait", "happen",
+        "play", "walk", "run", "eat", "drink", "sleep", "wake", "live", "die", "stay",
+        "leave", "arrive", "meet", "talk", "write", "read", "listen", "watch", "learn", "study",
+        "teach", "help", "hope", "believe", "remember", "forget", "understand", "feel", "seem"
+    ],
+    "B1": [
+        "able", "according", "across", "action", "actually", "add", "address", "affect", "afford",
+        "agree", "allow", "already", "although", "always", "amount", "animal", "answer", "anyone",
+        "anything", "appear", "apply", "argue", "arm", "around", "arrive", "article", "artist", "assume",
+        "attack", "audience", "author", "avoid", "beautiful", "become", "before", "begin", "behavior",
+        "behind", "believe", "benefit", "best", "better", "between", "beyond", "bird", "bit", "black",
+        "blood", "blue", "board", "boat", "body", "book", "born", "both", "break", "bring",
+        "brother", "budget", "build", "burn", "business", "buy", "camera", "campaign", "cancer", "candidate",
+        "capital", "card", "care", "career", "carry", "case", "catch", "cause", "cell", "center",
+        "central", "century", "certain", "chair", "challenge", "chance", "change", "chapter", "charge",
+        "choice", "choose", "church", "citizen", "city", "civil", "claim", "class", "clear", "clearly"
+    ],
+    "B2": [
+        "ability", "absence", "absolute", "absolutely", "academic", "accept", "access", "accident", "account",
+        "achieve", "acquire", "across", "active", "activity", "actual", "actually", "addition", "adequate",
+        "administration", "adult", "advantage", "advertisement", "advice", "advise", "affair", "affect",
+        "affection", "afford", "afraid", "agency", "agenda", "agent", "agree", "agreement", "ahead",
+        "air", "aircraft", "airline", "airport", "alarm", "album", "alcohol", "alive", "allow", "almost",
+        "alone", "along", "already", "also", "alter", "alternative", "although", "always", "amazing",
+        "amount", "analysis", "analyze", "ancient", "animal", "another", "answer", "anxiety", "anyway",
+        "apart", "apology", "apparent", "appeal", "appear", "appearance", "application", "apply", "appoint",
+        "appointment", "appreciate", "approach", "appropriate", "approval", "approve", "architect", "area",
+        "argue", "argument", "arise", "arm", "army", "around", "arrange", "arrangement", "arrest"
+    ],
+    "C1": [
+        "abandon", "abdomen", "abide", "abolish", "aboriginal", "abortion", "abrasion", "abstract",
+        "absurd", "abundance", "academic", "academy", "accommodate", "accommodation", "accompany", "accomplish",
+        "accomplishment", "account", "accountable", "accountancy", "accounting", "accumulate", "accuracy",
+        "accurate", "accurately", "accusation", "accuse", "accustom", "achieve", "achievement", "acid",
+        "acknowledge", "acknowledgement", "acquaint", "acquaintance", "acquire", "acquisition", "acquit",
+        "acquittal", "acre", "acronym", "acting", "action", "activate", "active", "activist", "activism",
+        "actor", "actress", "actual", "actuality", "actually", "actuary", "acupuncture", "ad", "adapt",
+        "adaptable", "adaptation", "adapter", "add", "addict", "addiction", "addition", "additional", "address",
+        "adenoid", "adept", "adequate", "adhere", "adhesive", "adjacent", "adjective", "adjoin", "adjust",
+        "adjustable", "adjustment", "administer", "administration", "administrative", "admirable", "admiral"
+    ],
+    "C2": [
+        "aberration", "abeyance", "abhor", "abide", "ablution", "abnegation", "abominable", "abridge",
+        "abscond", "absolution", "absolve", "abstain", "abstemious", "abstinence", "abstract", "abstruse",
+        "absurdity", "abundant", "abysmal", "academic", "accentuate", "accessible", "accommodate", "accompany",
+        "accomplice", "accord", "accost", "accountability", "accounting", "accredit", "accretion", "accrue",
+        "acerbic", "acetone", "achromatic", "acme", "acquiesce", "acquit", "acrimony", "actuality",
+        "actuate", "acumen", "adage", "adaptation", "addendum", "adept", "adipose", "adjacent", "adjudicate",
+        "adjunct", "admonish", "adoration", "adroit", "adulation", "adulatory", "adumbrate", "aesthetic",
+        "affable", "affidavit", "affiliation", "affirm", "affix", "afflict", "affronted", "aficionado",
+        "aggrandize", "aggregate", "agnostic", "agonize", "agrarian", "alacrity", "alchemy", "alcoholic",
+        "algae", "alibi", "alienate", "alignment", "allay", "allegation", "alleviate", "alliteration", "allocate"
+    ]
+}
